@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap');
+html,
+body {
+  height: 100v;
+  margin: 0;
+  padding: 0;
+}
+
+.images{
+    height: 90.5vh ;
+    width: 35%;
+    /* padding-left: 100px;
+    margin-top: 20px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image:  url('https://images.pexels.com/photos/6721914/pexels-photo-6721914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.containers{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+  align-items: center;
+  /* height: 100vh;
+  background-repeat: no-repeat; */
+  
+}
+
+img{
+    width: 100px;
+  
+  }
+
+  .logos{
+    
+    height: auto;
+    width: 50px;
+}
+
+.Adminds{
+    /* margin-left: 400px; */
+    height: 90.5vh ;
+    display: flex;
+    width: 65%;
+    flex-direction: column;
+    justify-content: flex-end;
+    justify-content: center;
+  align-items: center;
+  background-color: rgb(218, 211, 211);
+}
+  
+ .Admind1{
+    margin-bottom: 60px;
+     margin-right: 40px;
+     width: 400px;
+     height: 60px;
+     border-radius: 1rem;
+      border: none; 
+
+ }  
+
+ .Admind2{
+    margin-bottom: 10px;
+     margin-right: 40px;
+     width: 600px;
+     height: 60px;
+      border-radius: 1rem; 
+      border: none;
+
+} 
+
+ .Admind3{
+    margin-bottom: 10px;
+     margin-right: 40px;
+     width: 600px;
+     height: 60px;
+      border-radius: 1rem; 
+     border: none;
+
+}  
+
+ .Admind4{
+    margin-bottom: 10px;
+     margin-right: 40px;
+     width: 600px;
+     height: 60px;
+      border-radius: 1rem; 
+     border: none;
+}  
+
+.Admind4:focus{
+    border: none;
+
+}
+
+.Admind5{
+    margin-bottom: 10px;
+     margin-right: 40px;
+     width: 600px;
+     height: 60px;
+      border-radius: 1rem; 
+      border: none;
+} 
+
+.views button{
+    
+    margin-bottom: 10px;
+    width: 300px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 12px;
+    border-radius: 1rem;
+    border: none;
+    font-family:monospace ;
+    
+}
+
+.searchs button{
+    
+    margin-bottom: 10px;
+    width: 300px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 12px;
+    border-radius: 1rem;
+    border: none;
+    font-family:monospace ;
+    
+}
+
+.logo-texts{
+    font-size: 2rem;
+  color: white;
+}
+
+button:hover {
+    background-color: #656a6e;
+    color: white;
+}
+
+.go{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 90px;
+    height: 55px;
+     border-radius: 0.5rem; 
+    border: none;
+   
+}
+
+.show1{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 55px;
+    border-radius: 0.5rem;
+    border: none;
+    
+    
+    
+}
+
+.show2{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 55px;
+    border-radius: 0.5rem;
+    border: none;
+    
+    
+}
+
+.show3{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 55px;
+    border-radius: 0.5rem;
+    border: none;
+   
+}
+
+.show4{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 55px;
+    border-radius: 0.5rem;
+    border: none;
+    
+   
+}
+
+.idsearch1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    height: 60px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    font-family: monospace;
+    
+    
+    
+    
+    
+}
+
+
+
+.idsearch2{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 1rem;
+    
+    
+}
+
+.idsearch3{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.idsearch4{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.homelists{
+    text-decoration: none;
+    color: black;
+  }
+
+  .headers{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Saira Stencil One', cursive;
+    font:bold
+  }
+  
+  .parcel-logos{
+      width: 200px;
+
+  }
+  
+  
+
+
+
+
+
+
+
+
